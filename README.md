@@ -1,2 +1,2 @@
 # CG-Math
-CG-Math is used to study computer graphics
+CG-Math is used to study the math of computer graphics...
